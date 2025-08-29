@@ -1,6 +1,6 @@
 Numpy 
 Pandas
-Joblib
+joblib
 Seaborn
 Matplotlib
 streamlit
